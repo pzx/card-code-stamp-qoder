@@ -1,0 +1,528 @@
+{
+ "templates": {
+  "35x80_8slots": {
+   "page_w": 35.0,
+   "page_h": 80.0,
+   "pages": 254,
+   "bar_h": 8.0,
+   "slots": [
+    {
+     "x": 0.0,
+     "w": 3.76,
+     "bit": 7
+    },
+    {
+     "x": 3.76,
+     "w": 3.6,
+     "bit": 6
+    },
+    {
+     "x": 7.36,
+     "w": 3.6,
+     "bit": 5
+    },
+    {
+     "x": 10.96,
+     "w": 6.54,
+     "bit": 4
+    },
+    {
+     "x": 17.5,
+     "w": 6.54,
+     "bit": 3
+    },
+    {
+     "x": 24.04,
+     "w": 3.6,
+     "bit": 2
+    },
+    {
+     "x": 27.64,
+     "w": 3.6,
+     "bit": 1
+    },
+    {
+     "x": 31.24,
+     "w": 3.76,
+     "bit": 0
+    }
+   ],
+   "scheme": "front_back_diff_1based",
+   "decode_rate": 1.0,
+   "key": "35x80_8slots",
+   "file": "P6b&p7-小卡字母卡正反不同-254张(254个码)-模板.pdf",
+   "models": [
+    "p6b-小卡",
+    "p7-小卡"
+   ],
+   "pending_models": [],
+   "note": "p6b/p7 小卡 8 槽（35x80）"
+  },
+  "105x160_10slots": {
+   "page_w": 105.0,
+   "page_h": 160.0,
+   "pages": 510,
+   "bar_h": 5.0,
+   "slots": [
+    {
+     "x": 14.32,
+     "w": 6.2,
+     "bit": 9
+    },
+    {
+     "x": 20.52,
+     "w": 7.4,
+     "bit": 7
+    },
+    {
+     "x": 27.92,
+     "w": 7.4,
+     "bit": 6
+    },
+    {
+     "x": 35.32,
+     "w": 6.2,
+     "bit": 5
+    },
+    {
+     "x": 41.52,
+     "w": 10.9,
+     "bit": 4
+    },
+    {
+     "x": 52.42,
+     "w": 10.9,
+     "bit": 3
+    },
+    {
+     "x": 63.32,
+     "w": 6.2,
+     "bit": 2
+    },
+    {
+     "x": 69.52,
+     "w": 7.4,
+     "bit": 1
+    },
+    {
+     "x": 76.92,
+     "w": 7.4,
+     "bit": 0
+    },
+    {
+     "x": 84.32,
+     "w": 6.2,
+     "bit": 8
+    }
+   ],
+   "scheme": "front_back_diff_1based",
+   "decode_rate": 0.998,
+   "key": "105x160_10slots",
+   "file": "V3ABC套(1-510)模板-新-20241108.pdf",
+   "models": [
+    "v3"
+   ],
+   "pending_models": [],
+   "note": "v3 专用，位序特殊"
+  },
+  "35x80_6slots": {
+   "page_w": 35.0,
+   "page_h": 80.0,
+   "pages": 62,
+   "bar_h": 8.0,
+   "slots": [
+    {
+     "x": -0.01,
+     "w": 4.81,
+     "bit": 5
+    },
+    {
+     "x": 4.81,
+     "w": 5.28,
+     "bit": 4
+    },
+    {
+     "x": 10.09,
+     "w": 7.38,
+     "bit": 3
+    },
+    {
+     "x": 17.47,
+     "w": 7.38,
+     "bit": 2
+    },
+    {
+     "x": 24.85,
+     "w": 5.28,
+     "bit": 1
+    },
+    {
+     "x": 30.13,
+     "w": 4.84,
+     "bit": 0
+    }
+   ],
+   "scheme": "front_back_diff_1based",
+   "decode_rate": 1.0,
+   "key": "35x80_6slots",
+   "file": "p6-小卡字母卡-正反不同-62张(62个码)-模板.pdf",
+   "models": [
+    "p5-小卡",
+    "p6-小卡"
+   ],
+   "pending_models": [],
+   "note": "小卡 6 槽（35x80）：p5-小卡 / p6-小卡 共用"
+  },
+  "60x90_10slots": {
+   "page_w": 60.0,
+   "page_h": 90.0,
+   "pages": 510,
+   "bar_h": 8.0,
+   "slots": [
+    {
+     "x": -0.03,
+     "w": 6.78,
+     "bit": 9
+    },
+    {
+     "x": 6.75,
+     "w": 5.28,
+     "bit": 8
+    },
+    {
+     "x": 12.03,
+     "w": 5.28,
+     "bit": 7
+    },
+    {
+     "x": 17.31,
+     "w": 5.28,
+     "bit": 6
+    },
+    {
+     "x": 22.59,
+     "w": 7.38,
+     "bit": 5
+    },
+    {
+     "x": 29.97,
+     "w": 7.38,
+     "bit": 4
+    },
+    {
+     "x": 37.35,
+     "w": 5.28,
+     "bit": 3
+    },
+    {
+     "x": 42.63,
+     "w": 5.28,
+     "bit": 2
+    },
+    {
+     "x": 47.91,
+     "w": 5.28,
+     "bit": 1
+    },
+    {
+     "x": 53.19,
+     "w": 6.78,
+     "bit": 0
+    }
+   ],
+   "scheme": "front_back_diff_1based",
+   "decode_rate": 0.9941,
+   "key": "60x90_10slots",
+   "file": "p7&p6b&p6-255张-(正反不同510个码)-模版-22.0.pdf",
+   "models": [
+    "v2",
+    "v7c",
+    "p5",
+    "p6",
+    "p6b",
+    "p7"
+   ],
+   "pending_models": [],
+   "note": "大卡系列：v2/V7c/P5/P6/P6B/P7 共用一个模版（60x90，10 槽）"
+  },
+  "75x105_10slots": {
+   "page_w": 75.0,
+   "page_h": 105.0,
+   "pages": 336,
+   "bar_h": 7.0,
+   "slots": [
+    {
+     "x": 7.49,
+     "w": 6.78,
+     "bit": 9
+    },
+    {
+     "x": 14.27,
+     "w": 5.28,
+     "bit": 8
+    },
+    {
+     "x": 19.55,
+     "w": 5.28,
+     "bit": 7
+    },
+    {
+     "x": 24.83,
+     "w": 5.28,
+     "bit": 6
+    },
+    {
+     "x": 30.11,
+     "w": 7.38,
+     "bit": 5
+    },
+    {
+     "x": 37.49,
+     "w": 7.38,
+     "bit": 4
+    },
+    {
+     "x": 44.87,
+     "w": 5.28,
+     "bit": 3
+    },
+    {
+     "x": 50.15,
+     "w": 5.28,
+     "bit": 2
+    },
+    {
+     "x": 55.43,
+     "w": 5.28,
+     "bit": 1
+    },
+    {
+     "x": 60.71,
+     "w": 6.78,
+     "bit": 0
+    }
+   ],
+   "scheme": "front_back_diff_1based",
+   "decode_rate": 1.0,
+   "key": "75x105_10slots",
+   "file": "s7&v11-模板336-20250725.pdf",
+   "models": [
+    "s7",
+    "v11"
+   ],
+   "pending_models": [],
+   "note": "s7/v11 共用（75x105，10 槽）"
+  }
+ },
+ "models": {
+  "p7": {
+   "trim": [
+    60.0,
+    90.0
+   ],
+   "bleed": [
+    66.0,
+    96.0
+   ],
+   "bits": 10,
+   "max_code": 1023,
+   "template": "60x90_10slots",
+   "template_confirmed": true
+  },
+  "p6b": {
+   "trim": [
+    60.0,
+    90.0
+   ],
+   "bleed": [
+    66.0,
+    96.0
+   ],
+   "bits": 10,
+   "max_code": 1023,
+   "template": "60x90_10slots",
+   "template_confirmed": true
+  },
+  "p6": {
+   "trim": [
+    60.0,
+    90.0
+   ],
+   "bleed": [
+    66.0,
+    96.0
+   ],
+   "bits": 10,
+   "max_code": 1023,
+   "template": "60x90_10slots",
+   "template_confirmed": true
+  },
+  "p5": {
+   "trim": [
+    60.0,
+    90.0
+   ],
+   "bleed": [
+    66.0,
+    96.0
+   ],
+   "bits": 10,
+   "max_code": 1023,
+   "template": "60x90_10slots",
+   "template_confirmed": true
+  },
+  "v2": {
+   "trim": [
+    60.0,
+    90.0
+   ],
+   "bleed": [
+    66.0,
+    96.0
+   ],
+   "bits": 10,
+   "max_code": 1023,
+   "template": "60x90_10slots",
+   "template_confirmed": true
+  },
+  "v7c": {
+   "trim": [
+    60.0,
+    90.0
+   ],
+   "bleed": [
+    66.0,
+    96.0
+   ],
+   "bits": 10,
+   "max_code": 1023,
+   "template": "60x90_10slots",
+   "template_confirmed": true
+  },
+  "p6-小卡": {
+   "trim": [
+    35.0,
+    80.0
+   ],
+   "bleed": [
+    41.0,
+    86.0
+   ],
+   "bits": 6,
+   "max_code": 63,
+   "template": "35x80_6slots",
+   "template_confirmed": true
+  },
+  "p5-小卡": {
+   "trim": [
+    35.0,
+    80.0
+   ],
+   "bleed": [
+    41.0,
+    86.0
+   ],
+   "bits": 6,
+   "max_code": 63,
+   "template": "35x80_6slots",
+   "template_confirmed": true
+  },
+  "p6b-小卡": {
+   "trim": [
+    35.0,
+    80.0
+   ],
+   "bleed": [
+    41.0,
+    86.0
+   ],
+   "bits": 8,
+   "max_code": 255,
+   "template": "35x80_8slots",
+   "template_confirmed": true
+  },
+  "p7-小卡": {
+   "trim": [
+    35.0,
+    80.0
+   ],
+   "bleed": [
+    41.0,
+    86.0
+   ],
+   "bits": 8,
+   "max_code": 255,
+   "template": "35x80_8slots",
+   "template_confirmed": true
+  },
+  "v3": {
+   "trim": [
+    105.0,
+    160.0
+   ],
+   "bleed": [
+    111.0,
+    166.0
+   ],
+   "bits": 10,
+   "max_code": 1023,
+   "template": "105x160_10slots",
+   "template_confirmed": true
+  },
+  "s7": {
+   "trim": [
+    75.0,
+    105.0
+   ],
+   "bleed": [
+    81.0,
+    111.0
+   ],
+   "bits": 10,
+   "max_code": 1023,
+   "template": "75x105_10slots",
+   "template_confirmed": true
+  },
+  "v11": {
+   "trim": [
+    75.0,
+    105.0
+   ],
+   "bleed": [
+    81.0,
+    111.0
+   ],
+   "bits": 10,
+   "max_code": 1023,
+   "template": "75x105_10slots",
+   "template_confirmed": true
+  }
+ },
+ "schema": 2,
+ "model_groups": {
+  "35x80_8slots": [
+   "p6b-小卡",
+   "p7-小卡"
+  ],
+  "105x160_10slots": [
+   "v3"
+  ],
+  "35x80_6slots": [
+   "p5-小卡",
+   "p6-小卡"
+  ],
+  "60x90_10slots": [
+   "v2",
+   "v7c",
+   "p5",
+   "p6",
+   "p6b",
+   "p7"
+  ],
+  "75x105_10slots": [
+   "s7",
+   "v11"
+  ]
+ },
+ "pending_models": {}
+}
